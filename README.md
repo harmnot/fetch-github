@@ -1,4 +1,9 @@
-# fetch-github
+#Fetch your GitHub
+
+##it is easy ro run this app
+- you just need to run this with single command after u install the depedencies
+- then search your Github
+- you can also look your repositories on this projeck with README.md display
 
 ## Project setup
 ```
